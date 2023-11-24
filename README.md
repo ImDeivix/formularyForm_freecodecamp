@@ -1,2 +1,2 @@
 # formularyForm
-Diseño basico de un formulario con html y css
+Design of a basic form in freecodecamp.
